@@ -53,5 +53,5 @@ Test Dataset: Evaluate the trained model on a separate test dataset that was not
 Calculate Metrics: Calculate performance metrics such as accuracy, precision, recall, F1-score, and confusion matrix.
 Analyze Results: Analyze the model's performance and identify areas for improvement.
 
-
+# Output of the Task
 ![Screenshot 1946-10-28 at 1 09 28 PM](https://github.com/user-attachments/assets/490afe91-d18c-467d-bf45-c2550f7acc84)
